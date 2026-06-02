@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://jiatongshan.github.io/sitemap.xml
