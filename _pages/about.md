@@ -3,7 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: >
-  National University of Singapore. Computer Science.
+  PhD Candidate in Medicine, Yong Loo Lin School of Medicine, National University of Singapore.
 
 profile:
   align: right
@@ -24,8 +24,8 @@ latest_posts:
   enabled: false
 ---
 
-I am Jiatong Shan, a student at National University of Singapore.
+I am Jiatong Shan, a PhD candidate in Medicine at the Yong Loo Lin School of Medicine, National University of Singapore, supervised by Prof. Feng Lei.
 
-My research interests include computer science and related areas.
+My research focuses on epigenetic aging, DNA methylation clocks, lifestyle interventions, cognitive decline, and healthy longevity. I work across systematic review, meta-analysis, neuroimaging, and randomized controlled trial settings, with first-author work in high-impact journals including *The Lancet Healthy Longevity*.
 
-<!-- Add your bio here. You can describe your background, research, and goals. -->
+Before joining NUS, I completed a B.S. in Neuroscience at NYU Shanghai. My broader research interests center on how modifiable lifestyle factors and biological aging markers can inform prevention strategies for cognitive decline and dementia.

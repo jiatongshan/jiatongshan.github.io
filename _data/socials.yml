@@ -1,10 +1,10 @@
 # Social links for Jiatong Shan
 # Remove or comment out any fields you don't need
-cv_pdf: /assets/pdf/cv.pdf          # path to your CV PDF
-email: e1397079@u.nus.edu                  # your email address
-github_username: jiatongshan       # your GitHub username
-linkedin_username:                  # your LinkedIn slug (optional)
-scholar_userid:                     # your Google Scholar user ID (optional)
-orcid_id:                           # your ORCID ID, e.g. 0000-0000-0000-0000 (optional)
+# cv_pdf: /assets/pdf/cv.pdf
+email: e1397079@u.nus.edu
+github_username: jiatongshan
+linkedin_username: jiatong-shan-49895824b
+# scholar_userid:
+# orcid_id:
 # inspirehep_id:                    # Inspire HEP author ID (optional, for physics/HEP)
 # rss_icon: true                    # uncomment to show RSS icon
